@@ -22,7 +22,7 @@ repository               : "saga-tw/saga-tw.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "SAGA"
+  name             : "SAGA-TW"
   pronouns         : # example: "she/her"  
   bio              : "Synthetic Audit log Generation for APT campaigns"
   # location         : "Earth"
