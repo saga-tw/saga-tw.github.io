@@ -14,3 +14,7 @@ author_profile: true
 <p>The dataset includes 20 generated APT campaigns created using SAGA's random generation capability.</p>
 <a href="https://drive.google.com/file/d/16vbSaAyXvrnBM7tVrTe6E52m1JwRy_m2/view?usp=drive_link" target="_blank">Composite APT Campaigns Dataset.zip</a>
 <p>The dataset includes 10 composite APT campaigns, each created by randomly selecting 3 campaigns from known APT campaigns and generated APT campaigns to create new scenarios involving multiple APT campaigns targeting a victim host.</p>
+
+<div align="center">
+    <img src="/images/statistics.jpg" width="100%" height="100%">
+</div>
