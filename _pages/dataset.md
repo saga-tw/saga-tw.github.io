@@ -13,7 +13,7 @@ author_profile: true
 <p>The following table illustrates an overview of the Known APT Campaigns dataset. Each campaign is associated with specific stages of the attack lifecycle and the techniques used in the attack.</p>
 
 <div align="center">
-    <img src="/images/statistics.jpg" width="100%" height="100%">
+    <img src="/images/statistics.jpg" width="80%" height="80%">
 </div>
 <br><br>
 <h1 style= "color:#be887b">Download the Released Dataset</h1>
