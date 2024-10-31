@@ -18,7 +18,7 @@ redirect_from:
   <span style="color: #2E8B57; font-size:28px; margin-left: -4px;">tion for APT Campaigns </span>
 </p>
 
-<h1 style= "color:#3CB371">What is SAGA?</h1>
+<h1 style= "color:#3CB371; font-family: 'Georgia';">What is SAGA?</h1>
 <ul>
   <li><span style="font-weight: bold; text-decoration: underline;">A configurable synthetic audit log generation</span>   facilitated by adopting a red-team emulator.</li>
   <li>It allows for <span style="font-weight: bold; text-decoration: underline;">embedding stealthy APT attacks</span> at <span style="font-weight: bold; text-decoration: underline;">any arbitrary time interval</span>.
