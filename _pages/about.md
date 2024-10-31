@@ -8,10 +8,10 @@ redirect_from:
 ---
 <p>
   <strong style="color: #2F4F4F; font-weight: bold;font-size:34px">SAGA: </strong>
-  <span style="color: #2F4F4F; font-weight: bold;">S</span>ynthetic 
-  <span style="color: #2F4F4F; font-weight: bold;">A</span>udit Log 
-  <span style="color: #2F4F4F; font-weight: bold;">G</span>ener
-  <span style="color: #2F4F4F; font-weight: bold;">A</span>tion for APT Campaigns
+  <span style="color: #2F4F4F; font-weight: bold;font-size:34px">S</span>ynthetic 
+  <span style="color: #2F4F4F; font-weight: bold;font-size:34px">A</span>udit Log 
+  <span style="color: #2F4F4F; font-weight: bold;font-size:34px">G</span>ener
+  <span style="color: #2F4F4F; font-weight: bold;font-size:34px">A</span>tion for APT Campaigns
 </p>
 
 
