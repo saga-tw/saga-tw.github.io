@@ -207,9 +207,7 @@
 
     li {
       display: table-cell;
-      vertical-align: middle;
-      font-size: 24px;
-      color: #D2B48C;
+      vertical-align: middle;      
 
       &:first-child {
         font-weight: bold;
@@ -233,6 +231,8 @@
       &:before {
         content: "";
         position: absolute;
+        font-size: 24px;
+        color: #D2B48C;
         left: 0;
         bottom: 0;
         height: 4px;
