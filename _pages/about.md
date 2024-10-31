@@ -9,13 +9,13 @@ redirect_from:
 <p>
   <strong style="color: #2F4F4F; font-weight: bold;font-size:34px">SAGA: </strong>
   <span style="color: #2F4F4F; font-weight: bold;font-size:34px">S</span>
-  <span style="color: #2E8B57; font-size:34px">ynthetic</span>
+  <span style="color: #2E8B57; font-size:32px">ynthetic</span>
   <span style="color: #2F4F4F; font-weight: bold;font-size:34px">A</span>
-  <span style="color: #2E8B57; font-size:34px">udit Log</span> 
+  <span style="color: #2E8B57; font-size:32px">udit Log</span> 
   <span style="color: #2F4F4F; font-weight: bold;font-size:34px">G</span>
-  <span style="color: #2E8B57; font-size:34px">ener</span>
+  <span style="color: #2E8B57; font-size:32px">ener</span>
   <span style="color: #2F4F4F; font-weight: bold;font-size:34px">A</span>
-  <span style="color: #2E8B57; font-size:34px">tion for APT Campaigns</span>
+  <span style="color: #2E8B57; font-size:32px">tion for APT Campaigns</span>
 </p>
 
 
