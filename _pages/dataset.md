@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: 
 permalink: /dataset/
 author_profile: false
