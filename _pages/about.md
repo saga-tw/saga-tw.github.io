@@ -18,6 +18,12 @@ redirect_from:
   <span style="color: #2E8B57; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">tion for APT Campaigns </span>
 </p>
 
+<h1 style= "color:#3CB371; font-family: 'Georgia'"> News! </h1>
+<ul>
+  <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#F5F5DC;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Jun 2024</font></span> Update SAGA dataset - v2.0!</li>
+  <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#F5F5DC;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Feb 2024</font></span> Update SAGA dataset - v1.0!</li>  
+</ul>
+
 <h1 style= "color:#3CB371; font-family: 'Georgia';">What is SAGA?</h1>
 <ul>
   <li><span style="font-weight: bold; text-decoration: underline;">A configurable synthetic audit log generation</span>   facilitated by adopting a red-team emulator.</li>
@@ -29,14 +35,3 @@ redirect_from:
     </ul>
   </li>
 </ul>
-
-<!--<h1 style= "color:#be887b"> Introduction </h1>
-<p style="text-align: justify; white-space: normal;">SAGA is a system that combines the attack behaviors defined by the MITRE ATT&CK framework with the APT lifecycle proposed by Mandiant to automatically generate diverse APT attack scenario synthesized audit logs. These synthesized audit logs can be used to train machine learning models and evaluate the performance of various APT detection methods.</p>-->
-
-<div class="card">
-  <h1 style= "color:#be887b; font-family: 'Georgia'"> News! </h1>
-  <ul>
-    <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#C40000;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Jun 2024</font></span> Update SAGA dataset - v2.0!</li>
-    <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#C40000;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Feb 2024</font></span> Update SAGA dataset - v1.0!</li>  
-  </ul>
-</div>
