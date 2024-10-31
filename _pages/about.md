@@ -1,21 +1,21 @@
 ---
 permalink: /
 title: 
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 <p>
-  <strong style="color: #2F4F4F; font-weight: bold;font-size:34px">SAGA: </strong>
-  <span style="color: #2F4F4F; font-weight: bold;font-size:34px">S</span>
-  <span style="color: #2E8B57; font-size:28px; margin-left: -4px;">ynthetic </span>
-  <span style="color: #2F4F4F; font-weight: bold;font-size:34px">A</span>
-  <span style="color: #2E8B57; font-size:28px; margin-left: -4px;">udit Log </span> 
-  <span style="color: #2F4F4F; font-weight: bold;font-size:34px">G</span>
-  <span style="color: #2E8B57; font-size:28px; margin-left: -4px;">ener</span>
-  <span style="color: #2F4F4F; font-weight: bold;font-size:34px; margin-left: -4px;">A</span>
-  <span style="color: #2E8B57; font-size:28px; margin-left: -4px;">tion for APT Campaigns </span>
+  <strong style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">SAGA: </strong>
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">S</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">ynthetic </span>
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">A</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">udit Log </span> 
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">G</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">ener</span>
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px; margin-left: -4px;">A</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">tion for APT Campaigns </span>
 </p>
 
 <h1 style= "color:#3CB371; font-family: 'Georgia';">What is SAGA?</h1>
@@ -34,7 +34,7 @@ redirect_from:
 <p style="text-align: justify; white-space: normal;">SAGA is a system that combines the attack behaviors defined by the MITRE ATT&CK framework with the APT lifecycle proposed by Mandiant to automatically generate diverse APT attack scenario synthesized audit logs. These synthesized audit logs can be used to train machine learning models and evaluate the performance of various APT detection methods.</p>-->
 
 <div class="card">
-  <h1 style= "color:#be887b"> News! </h1>
+  <h1 style= "color:#be887b; font-family: 'Georgia'"> News! </h1>
   <ul>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#C40000;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Jun 2024</font></span> Update SAGA dataset - v2.0!</li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#C40000;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Feb 2024</font></span> Update SAGA dataset - v1.0!</li>  
