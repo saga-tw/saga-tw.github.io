@@ -9,7 +9,7 @@ redirect_from:
 <p>
   <strong style="color: #2F4F4F; font-weight: bold;font-size:34px">SAGA: </strong>
   <span style="color: #2F4F4F; font-weight: bold;font-size:34px">S</span>
-  <span style="color: #2E8B57; font-size:28; margin-left: -4px;">ynthetic </span>
+  <span style="color: #2E8B57; font-size:28px; margin-left: -4px;">ynthetic </span>
   <span style="color: #2F4F4F; font-weight: bold;font-size:34px">A</span>
   <span style="color: #2E8B57; font-size:28px; margin-left: -4px;">udit Log </span> 
   <span style="color: #2F4F4F; font-weight: bold;font-size:34px">G</span>
