@@ -20,7 +20,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $Merienda;
+    font-family: Merienda;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
