@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:#DDAA00;font-weight:700;font-size:34px">SAGA: <b>S</b>ynthetic <b>A</b>udit Log <b>G</b>ener<b>A</b>tion for APT Campaigns</span>
+<span style="color:#2F4F4F;font-size:34px">SAGA: <b>S</b>ynthetic <b>A</b>udit Log <b>G</b>ener<b>A</b>tion for APT Campaigns</span>
 
 <h1 style= "color:#be887b"> Introduction </h1>
 <p style="text-align: justify; white-space: normal;">SAGA is a system that combines the attack behaviors defined by the MITRE ATT&CK framework with the APT lifecycle proposed by Mandiant to automatically generate diverse APT attack scenario synthesized audit logs. These synthesized audit logs can be used to train machine learning models and evaluate the performance of various APT detection methods.</p>
