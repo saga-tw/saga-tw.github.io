@@ -51,6 +51,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  color: #D2B48C; /* 設定字體顏色 */
+  font-size: 48px; /* 設定字體大小 */
 
   &--lg {
     padding-right: 3em;
