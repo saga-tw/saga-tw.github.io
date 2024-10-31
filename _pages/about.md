@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 <p>
-  <strong style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">SAGA: </strong>
-  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">S</span>
-  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">ynthetic </span>
-  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">A</span>
-  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">udit Log </span> 
-  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px">G</span>
-  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">ener</span>
-  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:34px; margin-left: -4px;">A</span>
-  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:28px; margin-left: -4px;">tion for APT Campaigns </span>
+  <strong style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">SAGA: </strong>
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">S</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">ynthetic </span>
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">A</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">udit Log </span> 
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">G</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">ener</span>
+  <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px; margin-left: -4px;">A</span>
+  <span style="color: #2E8B57; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">tion for APT Campaigns </span>
 </p>
 
 <h1 style= "color:#3CB371; font-family: 'Georgia';">What is SAGA?</h1>
