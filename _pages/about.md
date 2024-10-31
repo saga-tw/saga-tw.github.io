@@ -20,15 +20,15 @@ redirect_from:
 
 <h1 style= "color:#3CB371">What is SAGA?</h1>
 <ul>
-  <li><span style="font-weight: bold; text-decoration: underline;">A configurable synthetic audit log generation</span>   facilitated by adopting a red-team emulator.
+  <li><span style="font-weight: bold; text-decoration: underline;">A configurable synthetic audit log generation</span>   facilitated by adopting a red-team emulator.</li>
   <li>It allows for <span style="font-weight: bold; text-decoration: underline;">embedding stealthy APT attacks</span> at <span style="font-weight: bold; text-decoration: underline;">any arbitrary time interval</span>.
     <ul>
-      <li>Synthesizing known APT campaigns
-      <li>Composing campaigns that follow the cyber attack lifecycle
-      <li>Combining multiple APT campaigns as described above
-    <ul>
-  <li>
-<ul>
+      <li>Synthesizing known APT campaigns</li>
+      <li>Composing campaigns that follow the cyber attack lifecycle</li>
+      <li>Combining multiple APT campaigns as described above</li>
+    </ul>
+  </li>
+</ul>
 
 <!--<h1 style= "color:#be887b"> Introduction </h1>
 <p style="text-align: justify; white-space: normal;">SAGA is a system that combines the attack behaviors defined by the MITRE ATT&CK framework with the APT lifecycle proposed by Mandiant to automatically generate diverse APT attack scenario synthesized audit logs. These synthesized audit logs can be used to train machine learning models and evaluate the performance of various APT detection methods.</p>-->
