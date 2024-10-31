@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p>
-  <span style="color: #2F4F4F; font-weight: bold;">SAGA: </span>
+  <strong style="color: #2F4F4F; font-weight: bold;">SAGA: </strong>
   <span style="color: #2F4F4F; font-weight: bold;">S</span>ynthetic 
   <span style="color: #2F4F4F; font-weight: bold;">A</span>udit Log 
   <span style="color: #2F4F4F; font-weight: bold;">G</span>ener
