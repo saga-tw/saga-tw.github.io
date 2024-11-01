@@ -14,7 +14,6 @@ author_profile: false
 <div align="center">
     <img src="/images/statistics.jpg" width="90%" height="90%">
 </div>
-<br><br>
 
 <h1 style= "color: #2F4F4F; font-family: 'Georgia';">Download the Released Dataset</h1>
 <ul>
