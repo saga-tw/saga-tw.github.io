@@ -25,13 +25,29 @@ redirect_from:
 </ul>
 
 <h1 style= "color:#2F4F4F; font-family: 'Georgia';">What is SAGA?</h1>
-<ul>
-  <li><span style="font-weight: bold; text-decoration: underline;">A configurable synthetic audit log generation</span>   facilitated by adopting a red-team emulator.</li>
-  <li>It allows for <span style="font-weight: bold; text-decoration: underline;">embedding stealthy APT attacks</span> at <span style="font-weight: bold; text-decoration: underline;">any arbitrary time interval</span>.
-    <ul>
-      <li>Synthesizing known APT campaigns</li>
-      <li>Composing campaigns that follow the cyber attack lifecycle</li>
-      <li>Combining multiple APT campaigns as described above</li>
-    </ul>
-  </li>
-</ul>
+<p style="font-family: 'Georgia';">SAGA can generate configured synthetic audit logs for any arbitrary time interval to embed stealthy APT attacks. Here, we are releasing a large-scale set of synthetic audit logs designed to simulate APT campaigns.</p>
+<h3 style= "color:#2F4F4F; font-family: 'Georgia';">SAGA has several features:</h3>
+<table style= "width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style= "vertical-align: top; border: none; padding: 10px;">
+      <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li style="font-family: 'Georgia';">Realism</li>
+        <li style="font-family: 'Georgia';">Scenario coverage</li>
+        <li style="font-family: 'Georgia';">Detailed labeling</li>
+        <li style="font-family: 'Georgia';">Higher-Level representation</li>
+        <li style="font-family: 'Georgia';">Flexibility any duration </li>
+        <li style="font-family: 'Georgia';">Diversity</li>
+      </ul>
+    </td>
+    <td style= "vertical-align: top; border: none; padding: 10px;">
+      <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li style="font-family: 'Georgia';">Host-based intrusion detection</li>
+        <li style="font-family: 'Georgia';">TTPs hunting</li>
+        <li style="font-family: 'Georgia';">Campaign attribution</li>
+        <li style="font-family: 'Georgia';">38 Campaigns (8 known, 20 random, 10 composite)</li>
+        <li style="font-family: 'Georgia';">80 Techniques defined in MITRE ATT&CK</li>
+        <li style="font-family: 'Georgia';">169 Attack patterns</li>
+      </ul>
+    </td>
+  </tr>
+</table>
