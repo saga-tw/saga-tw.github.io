@@ -23,7 +23,7 @@ redirect_from:
   <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#DEB887;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Jun 2024</font></span><span style="font-family: 'Georgia';"> Update SAGA dataset - v2.0!</span></li>
   <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#DEB887;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Feb 2024</font></span><span style="font-family: 'Georgia';"> Update SAGA dataset - v1.0!</span></li>  
 </ul>
-<br><br>
+<br>
 <h1 style= "color:#2F4F4F; font-family: 'Georgia';">What is SAGA?</h1>
 <p style="font-family: 'Georgia';">SAGA can generate configured synthetic audit logs for any arbitrary time interval to embed stealthy APT attacks. Here, we are releasing a large-scale set of synthetic audit logs designed to simulate APT campaigns.</p>
 <h2 style= "color:#2F4F4F; font-family: 'Georgia'; margin-top: 10px;">SAGA has several features:</h2>
