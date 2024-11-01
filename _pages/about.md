@@ -29,7 +29,7 @@ redirect_from:
 <h3 style= "color:#2F4F4F; font-family: 'Georgia';">SAGA has several features:</h3>
 <table>
   <tr>
-    <td style= "vertical-align: top; border: none !important;">
+    <td>
       <ul>
         <li style="font-family: 'Georgia';">Realism</li>
         <li style="font-family: 'Georgia';">Scenario coverage</li>
@@ -39,7 +39,7 @@ redirect_from:
         <li style="font-family: 'Georgia';">Diversity</li>
       </ul>
     </td>
-    <td style= "vertical-align: top; border: none !important;">
+    <td>
       <ul>
         <li style="font-family: 'Georgia';">Host-based intrusion detection</li>
         <li style="font-family: 'Georgia';">TTPs hunting</li>
