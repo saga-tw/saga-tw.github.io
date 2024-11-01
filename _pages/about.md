@@ -30,7 +30,7 @@ redirect_from:
 <table style= "width: 100%; border-collapse: collapse;">
   <tr>
     <td style= "vertical-align: top; border: none; padding: 10px;">
-      <ul style="list-style-type: none; margin: 0; padding: 0;">
+      <ul>
         <li style="font-family: 'Georgia';">Realism</li>
         <li style="font-family: 'Georgia';">Scenario coverage</li>
         <li style="font-family: 'Georgia';">Detailed labeling</li>
@@ -40,7 +40,7 @@ redirect_from:
       </ul>
     </td>
     <td style= "vertical-align: top; border: none; padding: 10px;">
-      <ul style="list-style-type: none; margin: 0; padding: 0;">
+      <ul>
         <li style="font-family: 'Georgia';">Host-based intrusion detection</li>
         <li style="font-family: 'Georgia';">TTPs hunting</li>
         <li style="font-family: 'Georgia';">Campaign attribution</li>
