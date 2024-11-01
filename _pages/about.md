@@ -31,7 +31,7 @@ redirect_from:
 <table>
   <tr>
     <td>
-      <ul>
+      <ul style="margin: 0; padding: 0; list-style-position: inside;">
         <li style="font-family: 'Georgia';">Realism</li>
         <li style="font-family: 'Georgia';">Scenario coverage</li>
         <li style="font-family: 'Georgia';">Detailed labeling</li>
@@ -41,7 +41,7 @@ redirect_from:
       </ul>
     </td>
     <td>
-      <ul>
+      <ul style="margin: 0; padding: 0; list-style-position: inside;">
         <li style="font-family: 'Georgia';">Host-based intrusion detection</li>
         <li style="font-family: 'Georgia';">TTPs hunting</li>
         <li style="font-family: 'Georgia';">Campaign attribution</li>
