@@ -52,3 +52,10 @@ redirect_from:
     </td>
   </tr>
 </table>
+
+<h1 style= "color:#2F4F4F; font-family: 'Georgia'; margin-top: 1em !important;">Data Example</h1>
+<p style="font-family: 'Georgia'; margin-bottom: 0 !important;">In the initial stages of the attack, phishing emails containing malicious attachments are sent to the victim to download the attachment IOC_09_11.rar. This activity is designated as the Technique T1566.001 Spearphishing Attachment of the attack lifecycle stage Initial Compromise. This malicious attachment exploits a vulnerability in WinRAR versions below 6.23 (as mentioned in CVE-2023-38831). When the victim clicks on the IOC_09_11.rar file, it triggers subsequent malicious activities designated as T1204.002 User Execution: Malicious File of the attack lifecycle Establish Foothold.</p>
+
+<div align="center">
+    <img src="/images/example.png" width="90%" height="90%">
+</div>
