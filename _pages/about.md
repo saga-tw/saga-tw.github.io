@@ -26,7 +26,7 @@ redirect_from:
 
 <h1 style= "color:#2F4F4F; font-family: 'Georgia'; margin-top: 1em !important;">What is SAGA?</h1>
 <p style="font-family: 'Georgia'; margin-bottom: 0 !important;">SAGA can generate configured synthetic audit logs for any arbitrary time interval to embed stealthy APT attacks. Here, we are releasing serveral large-scale set of synthetic audit logs designed to simulate APT campaigns.</p>
-<p style="margin-top: 1em !important; margin-bottom: 0 !important;"><span style="color: #006400; font-family: 'Georgia'; font-size:24px;">SAGA has several features:</span></p>
+<p style="margin-top: 1em !important; margin-bottom: 0 !important;"><span style="color: #006400; font-family: 'Georgia'; font-size:24px; font-weight: bold;">SAGA has several features:</span></p>
 <!-- <h2 style= "color:#2F4F4F; font-family: 'Georgia';">SAGA has several features:</h2> -->
 <table>
   <tr>
