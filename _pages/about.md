@@ -61,5 +61,5 @@ redirect_from:
 <p style="font-family: 'Georgia'; margin-bottom: 0.5em !important;">This malicious attachment exploits a vulnerability in WinRAR versions below 6.23 (as mentioned in <a href="https://nvd.nist.gov/vuln/detail/cve-2023-38831" style="color: #FF8C00;">CVE-2023-38831</a>). When the victim clicks on the IOC_09_11.rar file, it triggers subsequent malicious activities designated as <a href="https://attack.mitre.org/techniques/T1204/002/" style="color: #FF8C00;">T1204.002 User Execution: Malicious File</a> of the attack lifecycle <b style="color: #006400">Establish Foothold</b>.</p>
 
 <div align="center">
-    <img src="/images/example.png" width="90%" height="90%">
+    <img src="/images/example_v2.png" width="90%" height="90%">
 </div>
