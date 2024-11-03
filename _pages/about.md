@@ -9,13 +9,13 @@ redirect_from:
 <p style= "margin-bottom: 0 !important;">
   <strong style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">SAGA: </strong>
   <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">S</span>
-  <span style="color: #5EA09A; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">ynthetic </span>
+  <span style="color: #006400; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">ynthetic </span>
   <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">A</span>
-  <span style="color: #5EA09A; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">udit Log </span> 
+  <span style="color: #006400; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">udit Log </span> 
   <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px">G</span>
-  <span style="color: #5EA09A; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">ener</span>
+  <span style="color: #006400; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">ener</span>
   <span style="color: #2F4F4F; font-family: 'Georgia'; font-weight: bold;font-size:40px; margin-left: -4px;">A</span>
-  <span style="color: #5EA09A; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">tion for APT Campaigns </span>
+  <span style="color: #006400; font-family: 'Georgia'; font-size:36px; margin-left: -4px;">tion for APT Campaigns </span>
 </p>
 
 <h1 style= "color:#2F4F4F; font-family: 'Georgia'; margin-top: 1em !important;"> News! </h1>
@@ -26,7 +26,7 @@ redirect_from:
 
 <h1 style= "color:#2F4F4F; font-family: 'Georgia'; margin-top: 1em !important;">What is SAGA?</h1>
 <p style="font-family: 'Georgia'; margin-bottom: 0 !important;">SAGA can generate configured synthetic audit logs for any arbitrary time interval to embed stealthy APT attacks. Here, we are releasing serveral large-scale set of synthetic audit logs designed to simulate APT campaigns.</p>
-<p style="margin-top: 1em !important; margin-bottom: 0 !important;"><span style="color: #2E8B57; font-family: 'Georgia'; font-size:24px;">SAGA has several features:</span></p>
+<p style="margin-top: 1em !important; margin-bottom: 0 !important;"><span style="color: #006400; font-family: 'Georgia'; font-size:24px;">SAGA has several features:</span></p>
 <!-- <h2 style= "color:#2F4F4F; font-family: 'Georgia';">SAGA has several features:</h2> -->
 <table>
   <tr>
