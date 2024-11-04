@@ -13,46 +13,46 @@ author_profile: false
 <table style="border: 1px solid black; border-collapse: collapse;">
     <thead>
         <tr>
-            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">Simulated Campaign</th>
-            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">Attack Stage</th>
-            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
-            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">Event</th>
-            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">MalEvent</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #87CEFA; border: 1px solid black;">Simulated Campaign</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #87CEFA; border: 1px solid black;">Attack Stage</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #87CEFA; border: 1px solid black; max-width: 550px; word-wrap: break-word;">Techniques</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #87CEFA; border: 1px solid black;">Event</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #87CEFA; border: 1px solid black;">MalEvent</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">Higaisa</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,6,4,4,6}</td>
-            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Malicious File Execution, Registry Run Keys, System Information Discovery, System Network Configuration Discovery, Masquerade Task or Service, Scheduled Task</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 550px; word-wrap: break-word;">Phishing Attachment, Malicious File Execution, Registry Run Keys, System Information Discovery, System Network Configuration Discovery, Masquerade Task or Service, Scheduled Task</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">607,416</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">0.005%</td>
         </tr>
         <tr>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">APT28</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,2,4,4,7}</td>
-            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, System Information Discovery, Data from Local System, Exfiltration Over Web Service</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 550px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, System Information Discovery, Data from Local System, Exfiltration Over Web Service</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">1,203,013</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">1.175%</td>
         </tr>
         <tr>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">CobaltGroup</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,4}</td>
-            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Remote Access Software, Network Service Discovery</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 550px; word-wrap: break-word;">Phishing Attachment, Remote Access Software, Network Service Discovery</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">961,920</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">0.118%</td>
         </tr>
         <tr>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">Gamaredon</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,2,6,6,4,4,6,7}</td>
-            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, Modify Registry, Registry Run Keys, Windows Management Instrumentation, System Information Discovery, Scheduled Task, Defacement</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 550px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, Modify Registry, Registry Run Keys, Windows Management Instrumentation, System Information Discovery, Scheduled Task, Defacement</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">442,729</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">0.013%</td>
         </tr>
         <tr>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">Patchwork</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,3,4,4,4,6,5}</td>
-            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, PowerShell, Bypass User Account Control, Data from Local System, System Owner/User Discovery, Security Software Discovery, Registry Run Keys, Remote Desktop Protocol</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 550px; word-wrap: break-word;">Phishing Attachment, PowerShell, Bypass User Account Control, Data from Local System, System Owner/User Discovery, Security Software Discovery, Registry Run Keys, Remote Desktop Protocol</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">155,296</td>
             <td style="font-family: 'Work Sans'; border: 1px solid black;">9.095%</td>
         </tr>
