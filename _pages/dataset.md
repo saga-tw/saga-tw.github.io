@@ -13,11 +13,11 @@ author_profile: false
 <table style="border: 1px solid black; border-collapse: collapse;">
     <thead>
         <tr>
-            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #2F4F4F; border: 1px solid black;">Simulated APT Campaign</th>
-            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #2F4F4F; border: 1px solid black;">Attack Stage</th>
-            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #2F4F4F; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
-            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #2F4F4F; border: 1px solid black;">Event</th>
-            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #2F4F4F; border: 1px solid black;">MalEvent</th>
+            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #253031; border: 1px solid black;">Simulated APT Campaign</th>
+            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #253031; border: 1px solid black;">Attack Stage</th>
+            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #253031; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
+            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #253031; border: 1px solid black;">Event</th>
+            <th style="font-family: 'Work Sans'; color:#F5E0B7; background-color: #253031; border: 1px solid black;">MalEvent</th>
         </tr>
     </thead>
     <tbody>
