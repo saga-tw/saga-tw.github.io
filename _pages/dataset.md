@@ -10,8 +10,6 @@ author_profile: false
   <li style="font-family: 'Work Sans';"> Generated APT Campaigns: Using SAGA's random generation capability, we produced APT campaigns that simulate realistic APT attacks.</li>
 </ul>
 <p style="font-family: 'Work Sans';">The following table illustrates an overview of the Known APT Campaigns dataset. Each campaign is associated with specific stages of the attack lifecycle and the techniques used in the attack.</p>
-
-<span style="color: #006400; font-family: 'Work Sans'; font-weight: bold;font-size:24px">Simulated APT Campaigns</span>
 <table style="border: 1px solid black; border-collapse: collapse;">
     <thead>
         <tr>
