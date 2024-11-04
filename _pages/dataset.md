@@ -13,11 +13,11 @@ author_profile: false
 <table style="border: 1px solid black; border-collapse: collapse;">
     <thead>
         <tr>
-            <th style="font-family: 'Work Sans'; color:#c9b79c; background-color: #71816d; border: 1px solid black;">Simulated Campaign</th>
-            <th style="font-family: 'Work Sans'; color:#c9b79c; background-color: #71816d; border: 1px solid black;">Attack Stage</th>
-            <th style="font-family: 'Work Sans'; color:#c9b79c; background-color: #71816d; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
-            <th style="font-family: 'Work Sans'; color:#c9b79c; background-color: #71816d; border: 1px solid black;">Event</th>
-            <th style="font-family: 'Work Sans'; color:#c9b79c; background-color: #71816d; border: 1px solid black;">MalEvent</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">Simulated Campaign</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">Attack Stage</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">Event</th>
+            <th style="font-family: 'Work Sans'; color:#f1e0c5; background-color: #71816d; border: 1px solid black;">MalEvent</th>
         </tr>
     </thead>
     <tbody>
