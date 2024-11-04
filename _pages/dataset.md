@@ -12,55 +12,55 @@ author_profile: false
 <p style="font-family: 'Work Sans';">The following table illustrates an overview of the Known APT Campaigns dataset. Each campaign is associated with specific stages of the attack lifecycle and the techniques used in the attack.</p>
 
 <span style="color: #006400; font-family: 'Work Sans'; font-weight: bold;font-size:40px">Simulated APT Campaigns</span>
-<table>
+<table style="border: 1px solid black; border-collapse: collapse;">
     <thead>
         <tr>
-            <th>Simulated APT Campaign</th>
-            <th>Attack Stage</th>
-            <th style="max-width: 450px; word-wrap: break-word;">Techniques</th>
-            <th>Event</th>
-            <th>MalEvent</th>
+            <th style="border: 1px solid black;">Simulated APT Campaign</th>
+            <th style="border: 1px solid black;">Attack Stage</th>
+            <th style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Techniques</th>
+            <th style="border: 1px solid black;">Event</th>
+            <th style="border: 1px solid black;">MalEvent</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Higaisa</td>
-            <td>{1,2,6,4,4,6}</td>
-            <td style="max-width: 450px; word-wrap: break-word;">Phishing Attachment, Malicious File Execution, Registry Run Keys, System Information Discovery, System Network Configuration Discovery, Masquerade Task or Service, Scheduled Task</td>
-            <td>607,416</td>
-            <td>0.005%</td>
+            <td style="border: 1px solid black;">Higaisa</td>
+            <td style="border: 1px solid black;">{1,2,6,4,4,6}</td>
+            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Malicious File Execution, Registry Run Keys, System Information Discovery, System Network Configuration Discovery, Masquerade Task or Service, Scheduled Task</td>
+            <td style="border: 1px solid black;">607,416</td>
+            <td style="border: 1px solid black;">0.005%</td>
         </tr>
         <tr>
-            <td>APT28</td>
-            <td>{1,2,2,4,4,7}</td>
-            <td style="max-width: 450px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, System Information Discovery, Data from Local System, Exfiltration Over Web Service</td>
-            <td>1,203,013</td>
-            <td>1.175%</td>
+            <td style="border: 1px solid black;">APT28</td>
+            <td style="border: 1px solid black;">{1,2,2,4,4,7}</td>
+            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Web Protocols, Malicious File Execution, System Information Discovery, Data from Local System, Exfiltration Over Web Service</td>
+            <td style="border: 1px solid black;">1,203,013</td>
+            <td style="border: 1px solid black;">1.175%</td>
         </tr>
         <tr>
-            <td>CobaltGroup</td>
-            <td>{1,2,4}</td>
-            <td style="max-width: 450px; word-wrap: break-word;">Phishing Attachment, Remote Access Software, Network Service Discovery</td>
-            <td>961,920</td>
-            <td>0.118%</td>
+            <td style="border: 1px solid black;">CobaltGroup</td>
+            <td style="border: 1px solid black;">{1,2,4}</td>
+            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Remote Access Software, Network Service Discovery</td>
+            <td style="border: 1px solid black;">961,920</td>
+            <td style="border: 1px solid black;">0.118%</td>
         </tr>
         <tr>
-            <td>Gamaredon</td>
-            <td>{1,2,2,6,6,4,4,6,7}</td>
-            <td style="max-width: 450px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, Modify Registry, Registry Run Keys, Windows Management Instrumentation, System Information Discovery, Scheduled Task, Defacement</td>
-            <td>442,729</td>
-            <td>0.013%</td>
+            <td style="border: 1px solid black;">Gamaredon</td>
+            <td style="border: 1px solid black;">{1,2,2,6,6,4,4,6,7}</td>
+            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Web Protocols, Malicious File Execution, Modify Registry, Registry Run Keys, Windows Management Instrumentation, System Information Discovery, Scheduled Task, Defacement</td>
+            <td style="border: 1px solid black;">442,729</td>
+            <td style="border: 1px solid black;">0.013%</td>
         </tr>
         <tr>
-            <td>Patchwork</td>
-            <td>{1,2,3,4,4,4,6,5}</td>
-            <td style="max-width: 450px; word-wrap: break-word;">Phishing Attachment, PowerShell, Bypass User Account Control, Data from Local System, System Owner/User Discovery, Security Software Discovery, Registry Run Keys, Remote Desktop Protocol</td>
-            <td>155,296</td>
-            <td>9.095%</td>
+            <td style="border: 1px solid black;">Patchwork</td>
+            <td style="border: 1px solid black;">{1,2,3,4,4,4,6,5}</td>
+            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, PowerShell, Bypass User Account Control, Data from Local System, System Owner/User Discovery, Security Software Discovery, Registry Run Keys, Remote Desktop Protocol</td>
+            <td style="border: 1px solid black;">155,296</td>
+            <td style="border: 1px solid black;">9.095%</td>
         </tr>
     </tbody>
 </table>
-<p><small>* 1 = Initial Compromise, 2 = Establishing Foothold, 3 = Escalating Privileges, 4 = Internal Reconnaissance, 5 = Moving Laterally, 6 = Maintaining Presence, 7 = Complete Mission.</small></p>
+<p>* 1 = Initial Compromise, 2 = Establishing Foothold, 3 = Escalating Privileges, 4 = Internal Reconnaissance, 5 = Moving Laterally, 6 = Maintaining Presence, 7 = Complete Mission.</p>
 
 
 <h1 style= "color: #2F4F4F; font-family: 'Work Sans';">Download the Released Dataset</h1>
