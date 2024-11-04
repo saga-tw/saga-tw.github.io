@@ -15,11 +15,11 @@ author_profile: false
 <table style="border: 1px solid black; border-collapse: collapse;">
     <thead>
         <tr>
-            <th style="border: 1px solid black;">Simulated APT Campaign</th>
-            <th style="border: 1px solid black;">Attack Stage</th>
-            <th style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Techniques</th>
-            <th style="border: 1px solid black;">Event</th>
-            <th style="border: 1px solid black;">MalEvent</th>
+            <th style="background-color: #59344f; border: 1px solid black;">Simulated APT Campaign</th>
+            <th style="background-color: #59344f; border: 1px solid black;">Attack Stage</th>
+            <th style="background-color: #59344f; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
+            <th style="background-color: #59344f; border: 1px solid black;">Event</th>
+            <th style="background-color: #59344f; border: 1px solid black;">MalEvent</th>
         </tr>
     </thead>
     <tbody>
