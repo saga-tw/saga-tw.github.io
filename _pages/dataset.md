@@ -15,69 +15,69 @@ author_profile: false
 <table style="border: 1px solid black; border-collapse: collapse;">
     <thead>
         <tr>
-            <th style="background-color: #BCAF9C; border: 1px solid black;">Simulated APT Campaign</th>
-            <th style="background-color: #BCAF9C; border: 1px solid black;">Attack Stage</th>
-            <th style="background-color: #BCAF9C; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
-            <th style="background-color: #BCAF9C; border: 1px solid black;">Event</th>
-            <th style="background-color: #BCAF9C; border: 1px solid black;">MalEvent</th>
+            <th style="font-family: 'Work Sans'; background-color: #BCAF9C; border: 1px solid black;">Simulated APT Campaign</th>
+            <th style="font-family: 'Work Sans'; background-color: #BCAF9C; border: 1px solid black;">Attack Stage</th>
+            <th style="font-family: 'Work Sans'; background-color: #BCAF9C; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Techniques</th>
+            <th style="font-family: 'Work Sans'; background-color: #BCAF9C; border: 1px solid black;">Event</th>
+            <th style="font-family: 'Work Sans'; background-color: #BCAF9C; border: 1px solid black;">MalEvent</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid black;">Higaisa</td>
-            <td style="border: 1px solid black;">{1,2,6,4,4,6}</td>
-            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Malicious File Execution, Registry Run Keys, System Information Discovery, System Network Configuration Discovery, Masquerade Task or Service, Scheduled Task</td>
-            <td style="border: 1px solid black;">607,416</td>
-            <td style="border: 1px solid black;">0.005%</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">Higaisa</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,6,4,4,6}</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Malicious File Execution, Registry Run Keys, System Information Discovery, System Network Configuration Discovery, Masquerade Task or Service, Scheduled Task</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">607,416</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">0.005%</td>
         </tr>
         <tr>
-            <td style="border: 1px solid black;">APT28</td>
-            <td style="border: 1px solid black;">{1,2,2,4,4,7}</td>
-            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Web Protocols, Malicious File Execution, System Information Discovery, Data from Local System, Exfiltration Over Web Service</td>
-            <td style="border: 1px solid black;">1,203,013</td>
-            <td style="border: 1px solid black;">1.175%</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">APT28</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,2,4,4,7}</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, System Information Discovery, Data from Local System, Exfiltration Over Web Service</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">1,203,013</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">1.175%</td>
         </tr>
         <tr>
-            <td style="border: 1px solid black;">CobaltGroup</td>
-            <td style="border: 1px solid black;">{1,2,4}</td>
-            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Remote Access Software, Network Service Discovery</td>
-            <td style="border: 1px solid black;">961,920</td>
-            <td style="border: 1px solid black;">0.118%</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">CobaltGroup</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,4}</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Remote Access Software, Network Service Discovery</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">961,920</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">0.118%</td>
         </tr>
         <tr>
-            <td style="border: 1px solid black;">Gamaredon</td>
-            <td style="border: 1px solid black;">{1,2,2,6,6,4,4,6,7}</td>
-            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, Web Protocols, Malicious File Execution, Modify Registry, Registry Run Keys, Windows Management Instrumentation, System Information Discovery, Scheduled Task, Defacement</td>
-            <td style="border: 1px solid black;">442,729</td>
-            <td style="border: 1px solid black;">0.013%</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">Gamaredon</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,2,6,6,4,4,6,7}</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, Web Protocols, Malicious File Execution, Modify Registry, Registry Run Keys, Windows Management Instrumentation, System Information Discovery, Scheduled Task, Defacement</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">442,729</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">0.013%</td>
         </tr>
         <tr>
-            <td style="border: 1px solid black;">Patchwork</td>
-            <td style="border: 1px solid black;">{1,2,3,4,4,4,6,5}</td>
-            <td style="max-width: 450px; word-wrap: break-word; border: 1px solid black;">Phishing Attachment, PowerShell, Bypass User Account Control, Data from Local System, System Owner/User Discovery, Security Software Discovery, Registry Run Keys, Remote Desktop Protocol</td>
-            <td style="border: 1px solid black;">155,296</td>
-            <td style="border: 1px solid black;">9.095%</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">Patchwork</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">{1,2,3,4,4,4,6,5}</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black; max-width: 450px; word-wrap: break-word;">Phishing Attachment, PowerShell, Bypass User Account Control, Data from Local System, System Owner/User Discovery, Security Software Discovery, Registry Run Keys, Remote Desktop Protocol</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">155,296</td>
+            <td style="font-family: 'Work Sans'; border: 1px solid black;">9.095%</td>
         </tr>
     </tbody>
 </table>
-<p>* 1 = Initial Compromise, 2 = Establishing Foothold, 3 = Escalating Privileges, 4 = Internal Reconnaissance, 5 = Moving Laterally, 6 = Maintaining Presence, 7 = Complete Mission.</p>
+<p style="font-family: 'Work Sans';">* 1 = Initial Compromise, 2 = Establishing Foothold, 3 = Escalating Privileges, 4 = Internal Reconnaissance, 5 = Moving Laterally, 6 = Maintaining Presence, 7 = Complete Mission.</p>
 
 
 <h1 style= "color: #2F4F4F; font-family: 'Work Sans';">Download the Released Dataset</h1>
 <ul>
   <li>
-    <strong>SAGA dataset - v2.0</strong><br>
-    <a href="https://drive.google.com/file/d/1LgCIlkkRZrLwlny3_od-D8E2jmkQ2jVy/view?usp=drive_link" target="_blank">Known APT Campaigns Dataset.zip</a><br>
-    <em>The dataset include 8 APT campaigns based on cyber threat intelligence reports from real-world APT campaigns, including Higaisa, admin338, APT28, FIN7, CobaltGroup, Gamaredon, Patchwork, and GorgonGroup.</em><br>
-    <a href="https://drive.google.com/file/d/1e-8s4-DIM0FpRIJTqAaWC7uXUshr3WTu/view?usp=drive_link" target="_blank">Generated APT Campaigns Dataset.zip</a><br>
-    <em>The dataset includes 20 generated APT campaigns created using SAGA's random generation capability.</em><br>
-    <a href="https://drive.google.com/file/d/16vbSaAyXvrnBM7tVrTe6E52m1JwRy_m2/view?usp=drive_link" target="_blank">Composite APT Campaigns Dataset.zip</a><br>
-    <em>The dataset includes 10 composite APT campaigns, each created by randomly selecting 3 campaigns from known APT campaigns and generated APT campaigns to create new scenarios involving multiple APT campaigns targeting a victim host.</em>
+    <strong style="font-family: 'Work Sans';">SAGA dataset - v2.0</strong><br>
+    <a href="https://drive.google.com/file/d/1LgCIlkkRZrLwlny3_od-D8E2jmkQ2jVy/view?usp=drive_link" target="_blank" style="font-family: 'Work Sans';">Known APT Campaigns Dataset.zip</a><br>
+    <em style="font-family: 'Work Sans';">The dataset include 8 APT campaigns based on cyber threat intelligence reports from real-world APT campaigns, including Higaisa, admin338, APT28, FIN7, CobaltGroup, Gamaredon, Patchwork, and GorgonGroup.</em><br>
+    <a href="https://drive.google.com/file/d/1e-8s4-DIM0FpRIJTqAaWC7uXUshr3WTu/view?usp=drive_link" target="_blank" style="font-family: 'Work Sans';">Generated APT Campaigns Dataset.zip</a><br>
+    <em style="font-family: 'Work Sans';">The dataset includes 20 generated APT campaigns created using SAGA's random generation capability.</em><br>
+    <a href="https://drive.google.com/file/d/16vbSaAyXvrnBM7tVrTe6E52m1JwRy_m2/view?usp=drive_link" target="_blank" style="font-family: 'Work Sans';">Composite APT Campaigns Dataset.zip</a><br>
+    <em style="font-family: 'Work Sans';">The dataset includes 10 composite APT campaigns, each created by randomly selecting 3 campaigns from known APT campaigns and generated APT campaigns to create new scenarios involving multiple APT campaigns targeting a victim host.</em>
   </li>
   <li>
-    <strong>SAGA dataset - v1.0</strong><br>
-    <a href="https://drive.google.com/file/d/1XdlHEUJ0rvHFf3HfY1VYYkhLsMU6wg_A/view?usp=sharing" target="_blank">Known APT Campaigns Dataset.zip</a><br>
-    <em>The dataset include 5 APT campaigns based on cyber threat intelligence reports from real-world APT campaigns, including Higaisa, APT28, CobaltGroup, Gamaredon, and Patchwork</em>
+    <strong style="font-family: 'Work Sans';">SAGA dataset - v1.0</strong><br>
+    <a href="https://drive.google.com/file/d/1XdlHEUJ0rvHFf3HfY1VYYkhLsMU6wg_A/view?usp=sharing" target="_blank" style="font-family: 'Work Sans';">Known APT Campaigns Dataset.zip</a><br>
+    <em style="font-family: 'Work Sans';">The dataset include 5 APT campaigns based on cyber threat intelligence reports from real-world APT campaigns, including Higaisa, APT28, CobaltGroup, Gamaredon, and Patchwork</em>
   </li>
 </ul>
 
