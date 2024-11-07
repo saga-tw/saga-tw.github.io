@@ -20,8 +20,8 @@ redirect_from:
 
 <h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;"> News! </h1>
 <ul>
-  <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#A61C3C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Jun 2024</font></span><span style="font-family: 'Work Sans';"> Update SAGA dataset - v2.0!</span></li>
-  <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#A61C3C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Feb 2024</font></span><span style="font-family: 'Work Sans';"> Update SAGA dataset - v1.0!</span></li>  
+  <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#A61C3C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Jun 2024</font></span><span style="font-family: 'Work Sans';"> Update <a href="https://saga-tw.github.io/dataset/v1" target="_self" style="font-family: 'Work Sans';">SAGA dataset - v2.0</a>!</span></li>
+  <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#A61C3C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Feb 2024</font></span><span style="font-family: 'Work Sans';"> Update <a href="https://saga-tw.github.io/dataset/v1" target="_self" style="font-family: 'Work Sans';">SAGA dataset - v1.0</a>!</span></li>  
 </ul>
 
 <h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">What is SAGA?</h1>
