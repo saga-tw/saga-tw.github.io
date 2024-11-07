@@ -16,6 +16,65 @@
   }
 }
 
+/* Accordion 基本樣式 */
+.accordion {
+  width: 100%;
+  // max-width: 950px;
+  // margin: 0 auto;
+  border-radius: 8px; /* 增加整個手風琴的圓角 */
+  overflow: hidden;   /* 確保圓角生效 */
+}
+
+.accordion-item {
+  border: 1px solid #ddd;
+  border-top: none; /* 移除手風琴項目的上邊框，使它們相連 */
+  font-family: Quicksand;
+}
+
+.accordion-item:first-child {
+  border-top: 1px solid #ddd; /* 為第一個項目添加上邊框 */
+  border-top-left-radius: 8px; /* 左上角圓角 */
+  border-top-right-radius: 8px; /* 右上角圓角 */
+}
+
+.accordion-item:last-child {
+  border-bottom-left-radius: 8px; /* 左下角圓角 */
+  border-bottom-right-radius: 8px; /* 右下角圓角 */
+}
+
+.accordion-header {
+  height: 50px;
+  width: 100%;
+  padding: 8px;
+  text-align: left;
+  background-color: #d2c8bd;
+  cursor: pointer;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333333;
+}
+
+.accordion-header:hover {
+  background-color: #b5a99a;
+}
+
+.accordion-title {
+  font-size: 1.2rem;
+}
+
+.accordion-content {
+  display: none;
+  padding: 1rem;
+  background-color: #F5F2EF;
+  border-top: 1px solid #ddd;
+  color: #3D3D3D;
+}
+
+.accordion-content.show {
+  display: block;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(12 of 12 last);
