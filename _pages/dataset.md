@@ -4,23 +4,23 @@ permalink: /dataset/
 author_profile: false
 ---
 
-
-<h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Download the Released Dataset</h1>
+<!-- <strong style="color: #2F4F4F; font-family: 'Work Sans'; font-weight: bold;font-size:40px">Released Dataset</strong> -->
+<h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Future Updates</h1>
+<p style="font-family: 'Work Sans';">We are committed to continually enhancing and expanding the SAGA dataset. Future versions will include updates to existing scenarios as well as the addition of new attack scenarios that reflect the evolving landscape of cyber threats. These updates will incorporate the latest cyber threat intelligence, advancements in attack simulation techniques, and insights from ongoing cybersecurity research. </p>
+<h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Released Dataset</h1>
 <ul>
   <li>
-    <strong style="font-family: 'Work Sans'; font-size:22px;">SAGA dataset - v2.0</strong><br>
-    <a href="https://drive.google.com/file/d/1LgCIlkkRZrLwlny3_od-D8E2jmkQ2jVy/view?usp=drive_link" target="_blank" style="font-family: 'Work Sans';">Known APT Campaigns Dataset.zip</a><br>
-    <em style="font-family: 'Work Sans';">The dataset include 8 APT campaigns based on cyber threat intelligence reports from real-world APT campaigns, including Higaisa, admin338, APT28, FIN7, CobaltGroup, Gamaredon, Patchwork, and GorgonGroup.</em><br>
-    <a href="https://drive.google.com/file/d/1e-8s4-DIM0FpRIJTqAaWC7uXUshr3WTu/view?usp=drive_link" target="_blank" style="font-family: 'Work Sans';">Generated APT Campaigns Dataset.zip</a><br>
-    <em style="font-family: 'Work Sans';">The dataset includes 20 generated APT campaigns created using SAGA's random generation capability.</em><br>
-    <a href="https://drive.google.com/file/d/16vbSaAyXvrnBM7tVrTe6E52m1JwRy_m2/view?usp=drive_link" target="_blank" style="font-family: 'Work Sans';">Composite APT Campaigns Dataset.zip</a><br>
-    <em style="font-family: 'Work Sans';">The dataset includes 10 composite APT campaigns, each created by randomly selecting 3 campaigns from known APT campaigns and generated APT campaigns to create new scenarios involving multiple APT campaigns targeting a victim host.</em>
+    <a href="https://kkkk16.github.io/dataset/v2" target="_self" style="font-family: 'Work Sans'; font-size:24px;">SAGA dataset - v2.0</a><br>
+    <p style="font-family: 'Work Sans';">This version of the dataset includes three types of attack scenarios, designed to support cybersecurity research focused on Advanced Persistent Threats (APTs):</p>
+    <ul>
+      <li style="font-family: 'Work Sans';"><strong>Known APT Campaigns</strong>: These scenarios are based on cyber threat intelligence reports from real-world APT activities, accurately replicating documented attack techniques and lifecycles.</li>
+      <li style="font-family: 'Work Sans';"><strong>Generated APT Campaigns</strong>: Using SAGA's random generation capability, these scenarios simulate realistic APT attacks, producing novel yet highly plausible attack patterns.</li>
+      <li style="font-family: 'Work Sans';"><strong>Composite APT Campaigns</strong>: These scenarios are created by randomly combining three scenarios from the previous two categories, reflecting more complex, multi-layered real-world attack situations and showcasing the interaction of various attack techniques and strategies.</li>
+    </ul>
   </li>
   <li>
-    <strong style="font-family: 'Work Sans'; font-size:22px;">SAGA dataset - v1.0</strong><br>
-    <a href="https://drive.google.com/file/d/1XdlHEUJ0rvHFf3HfY1VYYkhLsMU6wg_A/view?usp=sharing" target="_blank" style="font-family: 'Work Sans';">Known APT Campaigns Dataset.zip</a><br>
-    <em style="font-family: 'Work Sans';">The dataset include 5 APT campaigns based on cyber threat intelligence reports from real-world APT campaigns, including Higaisa, APT28, CobaltGroup, Gamaredon, and Patchwork</em>
+    <a href="https://kkkk16.github.io/dataset/v1" target="_self" style="font-family: 'Work Sans'; font-size:24px;">SAGA dataset - v1.0</a><br>
+    <p style="font-family: 'Work Sans';">This version of the dataset focuses exclusively on Known APT Campaigns, which are based on real-world cyber threat intelligence reports. It includes scenarios that accurately replicate documented APT activities, reflecting the attack techniques and lifecycles used by advanced persistent threat (APT) actors. The dataset provides detailed records of tactics, techniques, and procedures (TTPs), offering valuable insights into the nature of APT campaigns and their progression over time.</p>
   </li>
 </ul>
-
 
